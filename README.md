@@ -1,7 +1,3 @@
-Here’s a clean, simple, and professional **GitHub README** you can use for your project:
-
----
-
 # 🛍️ Customer Shopping Behaviour Analysis
 
 ## 📌 Introduction
