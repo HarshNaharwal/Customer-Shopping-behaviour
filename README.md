@@ -134,5 +134,13 @@ This analysis helps businesses:
 * SQL (SQL Server)
 * Power BI
 
-* Turn this into a **portfolio-ready case study**
-* Or make it more **recruiter-friendly (ATS style)**
+
+<img width="1386" height="739" alt="Screenshot 2026-05-26 183956" src="https://github.com/user-attachments/assets/914445fb-d157-47bf-8249-21899cba9e97" />
+
+<img width="1341" height="738" alt="Screenshot 2026-05-26 184010" src="https://github.com/user-attachments/assets/c689e247-4f48-4935-bcc5-7f0bf73f9767" />
+
+
+
+
+
+
