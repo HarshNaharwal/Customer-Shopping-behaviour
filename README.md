@@ -137,7 +137,8 @@ This analysis helps businesses:
 
 <img width="1386" height="739" alt="Screenshot 2026-05-26 183956" src="https://github.com/user-attachments/assets/914445fb-d157-47bf-8249-21899cba9e97" />
 
-<img width="1341" height="738" alt="Screenshot 2026-05-26 184010" src="https://github.com/user-attachments/assets/c689e247-4f48-4935-bcc5-7f0bf73f9767" />
+<img width="1332" height="741" alt="Screenshot 2026-05-26 184340" src="https://github.com/user-attachments/assets/31e1274f-9137-4aac-8ed8-9e9f5a1fb102" />
+
 
 
 
